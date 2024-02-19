@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Figtree-ExtraBold';
+    src: url(../fonts/static/Figtree-ExtraBold.ttf) format(ttf);
+}
+
+@font-face {
+    font-family: 'Figtree-SemiBold';
+    src: url(../fonts/static/Figtree-SemiBold.ttf) format(ttf);
+}
